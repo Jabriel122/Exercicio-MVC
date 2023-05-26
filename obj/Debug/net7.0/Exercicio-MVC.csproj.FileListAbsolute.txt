@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\Exercicio-MVC\bin\Debug\net7.0\Exercicio-MVC.exe
+C:\Users\50849167825\Desktop\Exercicio-MVC\bin\Debug\net7.0\Exercicio-MVC.deps.json
+C:\Users\50849167825\Desktop\Exercicio-MVC\bin\Debug\net7.0\Exercicio-MVC.runtimeconfig.json
+C:\Users\50849167825\Desktop\Exercicio-MVC\bin\Debug\net7.0\Exercicio-MVC.dll
+C:\Users\50849167825\Desktop\Exercicio-MVC\bin\Debug\net7.0\Exercicio-MVC.pdb
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.dll
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\refint\Exercicio-MVC.dll
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.pdb
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\Exercicio-MVC.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\Exercicio-MVC\obj\Debug\net7.0\ref\Exercicio-MVC.dll
